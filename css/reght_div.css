@@ -1,0 +1,59 @@
+.reght_div_body{
+    display: inline-block;
+    float: right;
+    /* width: 230px; */
+    margin:80px 0px 0px 40px;
+    /* 后期 背景、边框去除 */
+    /* background: #fafafa;
+    border: black 2px solid; */
+    position: fixed;
+}
+.right_div_body_ul_2{
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    background: #fafafa;
+    border-bottom: #f1f1f1 solid 2px;
+}
+.right_div_ul_li_2_1{
+    font-size: 20px;
+    width: 150px;
+    text-align: center;
+    margin: 0px 25px;
+}
+.wxtp{
+    width: 150px;
+    margin: 0px 25px;
+}
+
+/* 右边个性名片盒子 */
+.right_div_body_ul{
+    line-height: 2em;
+    height: 260px;
+    background: #fafafa;
+    border-bottom: #f1f1f1 solid 2px;
+    /* padding: 10px; */
+}
+.right_div_body_ul_li_1{
+    width: 150;  
+    padding:10px 10px 0px 10px;
+}
+.right_div_body_ul_li_2{
+    font-size: 20px; 
+    margin: 0px 10px;
+}
+.right_div_body_ul_li_3{
+    font-size: 16px;
+    margin: 0px 10px; 
+}
+.right_div_body_ul_li_4{
+    font-size: 16px; 
+    margin: 0px 10px;
+}
+.right_div_body_ul_li_5{    
+    font-size: 16px;
+    margin: 0px 10px;
+}
+.right_div_body_ul_li_1_img{
+    width: 180px;
+}

@@ -1,0 +1,32 @@
+body{
+    background: #f5f5f5;
+}
+.body_div_2{
+    min-width: 900px;
+    height: 500px;
+    margin:80px 20px 30px 20px;
+    background: #fff;
+    text-align: center;
+    display: inline-block;
+}
+.body_div_2_1{
+    font-size: 100px;
+}
+.body_div_2_2{
+    font-size: 22px;
+}
+.body_div_2_3{
+    font-size: 30px;
+    width: 140px;
+    text-align: none;
+    margin: 50px auto ;
+    
+}
+@调试中
+/* a:link{
+    background:#fff;
+}
+a:hover{
+    background: #000;
+    color: #FFF;
+} */

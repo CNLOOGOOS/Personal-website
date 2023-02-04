@@ -1,0 +1,10 @@
+.bqxx{
+    /* 调试时使用 后期不需要 */
+    /* border-top: 1px black solid ; */
+    text-align: center;
+    line-height: 2em;
+    margin: 0px 20px;
+    /* 定义最小宽度 */
+    min-width: 900px;
+    background: #FFF;
+}

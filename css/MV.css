@@ -1,0 +1,20 @@
+.MV_body_div_2{
+    width: 1160px;
+    background: #FFF;
+    margin:80px 20px 30px 20px;
+    display: inline-block;
+}
+video{
+    width: 1100px;
+    margin: 20px 30px; 
+    
+}
+.mvbt{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 50px;
+}
+.mvmv{
+    border-bottom:3px solid #f0f0f0 ;
+}

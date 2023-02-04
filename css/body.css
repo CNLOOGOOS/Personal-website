@@ -1,0 +1,87 @@
+/* 用于指定图片大小 */
+.img_l{
+    width: 240px;
+    height: 140px;
+}
+.left_div_body{
+/* 边框 调试用 后期不要 */
+    /* border: 1px solid #999; */
+    margin: 30px 20px ;
+    width: 900px;
+    background: #fafafa;
+    /* 转换成行内块元素 */
+    display: inline-block;
+    margin: 80px 20px 30px 20px;
+}
+.div_ul-1{
+    height: 150px;
+    padding-top: 10px ;
+    border-bottom:2px solid #f0f0f0f0 ;
+}
+.div_li_1{
+    float: left;
+    margin: 0px 10px;   
+}
+.div_li_2{
+    height: 35px;
+    font-size: 20px
+}
+.div_li_3{
+    height: 80px;
+    font-size: 15px;
+    /* margin-top: 5px; */
+}
+.div_li_4_li_1{
+    line-height: 35px;
+    margin-left: 10px;
+    font-size: 16px;
+    display: inline-block;
+}
+.div_li_4_li_2{
+    line-height: 30px;
+    margin-left: 10px;
+    font-size: 16px;
+    display: inline-block;
+}
+.div_li_4_li_3{
+    width: 100px;
+    line-height: 30px;
+    margin-left: 200px;
+    font-size: 16px;
+    display: inline-block;
+}
+.div_li_4_li_4{
+    width: 80px;
+    line-height: 30px;
+    font-size: 16px;
+    display: inline-block;
+}
+.div_ul_4_logo{
+    height: 18px;
+}
+.reght_div_body{
+    display: inline-block;
+    float: right;
+    /* width: 230px; */
+    margin:30px 20px 0px 0px;
+    border-bottom: #f5f5f5 solid 2px;
+    /* 后期 背景、边框去除 */
+    /* background: #fafafa;
+    border: black 2px solid; */
+}
+.right_div_body_ul{
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    background: #fafafa;
+}
+.right_div_ul_li_1{
+    font-size: 20px;
+    width: 150px;
+    text-align: center;
+    margin: 0px 25px;
+}
+.wxtp{
+    width: 150px;
+    margin: 0px 25px;
+}

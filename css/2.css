@@ -1,0 +1,67 @@
+.index_2_body_div{
+    width: 900px;
+    margin: 80px 20px 30px 20px;
+    background: #fff;
+    display: inline-block;
+}
+.index_2_body_div_ul{
+    line-height: 2em;
+}
+.index_2_body_img{
+    width: 900px;
+}
+.index_2_body_div_ul_li_1{
+    font-size: 24px;
+    padding:20px ;
+}
+.index_2_body_div_ul_li_2{
+    
+}
+.index_2_body_div_ul_li_3{
+    font-size: 18px; 
+    padding: 0px 20px ;
+    text-indent: 2em;
+}
+.index_2_body_div_ul_li_4_ul{
+    width: 800px;
+    height: 150px;
+    margin: 5px auto;
+    border: solid #f2f2f2 2px;
+    border-radius: 5px;
+    /* 边框调试用 */
+    /* border: solid red 2px ; */
+}
+.index_2_body_div_ul_li_4_img{
+    height: 140px;
+    float: left;
+    margin: 5px;
+}
+.index_2_body_div_ul_li_4_ul_li_2{
+    font-size: 20px ;
+    height: 30px;
+}
+.index_2_body_div_ul_li_4_ul_li_3{
+    font-size: 16px ;
+    height: 90px;
+    text-indent: 2em;
+}
+.index_2_body_div_ul_li_4_ul_li_4{
+    height: 30px;
+    text-align: right;
+    margin:0px 50px 0px 0px;
+}
+.index_2_body_div_ul_li_4_ul_li_4_a{
+    background: #eeeeee;
+    display: inline-block;
+    padding: 0px 3px ;
+    border-radius: 5px;
+}
+.index_2_body_div_ul_li_4_ul_li_4_a:hover{
+    background: #388e3c;
+    color: #fff;
+}
+.index_2_body_div_ul_li_4_ul:hover{
+    margin: 5px 50px ; 
+    border: solid #ececec 3px;
+    border-radius: 5px;
+}
